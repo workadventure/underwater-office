@@ -16,6 +16,6 @@
   },
   "dependencies": {
     "@workadventure/iframe-api-typings": "^1.13.4",
-    "@workadventure/scripting-api-extra": "^1.4.5"
+    "@workadventure/scripting-api-extra": "^1.5.3"
   }
 }
